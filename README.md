@@ -1,9 +1,13 @@
+# Data-Science-Portfolio
+Data Science Portfolio to summarize my learnings and skills in data exploration, data mining and predictive analytics.
+
+# About Me
+
 ## Contact
 - **Email : b.sashidhar@gmail.com**
 - **Phone : +1 831-229-4324**
 - **Location : Chicago**
 
-## About Me
 ## Professional Summary
 •	Highly-skilled Data Engineer with 19 years of experience in developing, implementation and optimization of data plumbing systems and ETL processes. Led multiple teams of  developers to implement data-driven solutions. Collaborated with data scientists and engineers to develop data pipelines. With strong business understanding and knowledge of Student Loans, Personal Loans, Credit cards and Banking domain.
 
@@ -54,9 +58,6 @@
 **Others	  :** AWS, Google Cloud, Big Data Analytics, Hadoop, Strong understanding in Master Data Management 
 
 **Methodology 	  :** Agile Methodology – Scrum & Kanban, Water fall method.
-
-# Data-Science-Portfolio
-Data Science Portfolio to summarize my learnings and skills in data exploration, data mining and predictive analytics.
 
 ## Projects
 ### 1.	Fertility Rate Analysis  
