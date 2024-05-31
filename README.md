@@ -113,7 +113,7 @@ Financial institutions are using classification models to predict the default or
 #### Introduction 
 For the visualizations of the airline safety data, I have planned to show the trends. I started with a bar chart that depicted the total number of Fatalities between 1985-1999 & 2000-2014, drawn from an initial dataset. From this initial look, I then wanted to dive into the data regarding specific airlines. I narrowed it down to the top twenty airlines, since the airlines which have the most people flying will encounter more incidents. I chose mostly bar charts for these visualizations since it’s an easy way to depict categories and their differences. By looking at the dashboard, it is quick to determine the airline trends and how to correlate the total number of incidents vs total number of fatal accidents. I have chosen Line charts to show the trend of accidents and trend of Fatalities over the period between 1940 thru 2022. 
 
-###[6.	Finance - Transaction Log Analysis](https://github.com/bsashidhar/data_science_portfolio.github.io/tree/cefe85ca97e27bb11624cef82801c3d5e1903f3b/Finance%20-%20Transaction%20Log%20Analysis) 
+### [6.	Finance - Transaction Log Analysis](https://github.com/bsashidhar/data_science_portfolio.github.io/tree/cefe85ca97e27bb11624cef82801c3d5e1903f3b/Finance%20-%20Transaction%20Log%20Analysis) 
 
 #### Objective
 Streamline large volumes of transaction logs, identifying transaction volumes, peak transaction times, and other important metrics.
@@ -122,7 +122,7 @@ Streamline large volumes of transaction logs, identifying transaction volumes, p
 
 The dataset used for the project is presently only one of few on Kaggle with information on the rising risk of digital financial fraud, emphasizing the difficulty in obtaining such data. This synthetically generated dataset consists of payments from various customers made in different time periods and with different amounts. 
 
-###[7.	Employee Attrition Prediction](https://github.com/bsashidhar/data_science_portfolio.github.io/tree/cefe85ca97e27bb11624cef82801c3d5e1903f3b/Employee%20Attrition%20Prediction) 
+### [7.	Employee Attrition Prediction](https://github.com/bsashidhar/data_science_portfolio.github.io/tree/cefe85ca97e27bb11624cef82801c3d5e1903f3b/Employee%20Attrition%20Prediction) 
 #### Introduction 
 Organizations are realizing that employees are valuable assets. Employee Attrition is a major concern for organizations because the functioning of the organization entirely depends on the pool of employees. Attrition can impact productivity, team dynamics, and overall company performance. Attrition rate defines the organization’s image. Higher the attrition rate, the organization has to face some incurred costs to recruit, induct, placement and train the employee. 
 #### Business Problem 
@@ -135,7 +135,7 @@ Develop a machine learning model to address the below:
 
 This is a fictional dataset created by IBM data scientists, which can help uncover the factors that lead to employee attrition.
 
-###[8.	House Price Prediction](https://github.com/bsashidhar/data_science_portfolio.github.io/tree/cefe85ca97e27bb11624cef82801c3d5e1903f3b/House%20Price%20Prediction) 
+### [8.	House Price Prediction](https://github.com/bsashidhar/data_science_portfolio.github.io/tree/cefe85ca97e27bb11624cef82801c3d5e1903f3b/House%20Price%20Prediction) 
 #### Introduction 
 In recent years, the real estate industry has experienced rapid growth, making it an interesting area for research and experimentation. One common task in this field is forecasting house prices, which can be challenging due to the complex and dynamic nature of the market. In this experiment, we will perform EDA and build models, to analyze data and make predictions about house prices. By applying this technique, we aim to gain insights into the factors that affect house prices and improve our ability to forecast them accurately. 
 #### Business Problem 
@@ -148,7 +148,7 @@ Develop a machine learning model to address the below:
 
 The Ames Housing dataset was compiled by Dean De Cock for use in data science education. It's an incredible alternative for data scientists looking for a modernized and expanded version of the often cited Boston Housing dataset.
 
-###[9.	Creditcard Fraud Detection](https://github.com/bsashidhar/data_science_portfolio.github.io/tree/cefe85ca97e27bb11624cef82801c3d5e1903f3b/Creditcard%20Fraud%20Detection) 
+### [9.	Creditcard Fraud Detection](https://github.com/bsashidhar/data_science_portfolio.github.io/tree/cefe85ca97e27bb11624cef82801c3d5e1903f3b/Creditcard%20Fraud%20Detection) 
 #### Introduction 
 Credit Card Frauds are the cases of using someone else's credit cards for financial transactions without the information of the card owner. With the rise in the e-commerce and the recent boom of OTT platforms during the Coronavirus Pandemic, use of credit cards has risen exponentially along with other payment processes. As all the things in the nature are binary, cases of credit card frauds have also achieved high numbers. Global economy pays the price of more than $ 24 billion per year due to these frauds. Thus, it becomes essential to solve this problem and as a result a lot of startups have been born into this $ 30 billion industry. It is also important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.  Thus, building automated models for such a rising problem statement is necessary.
 #### Business Problem 
@@ -160,7 +160,7 @@ Develop a machine learning model to address the below:
 
 The dataset contains transactions made by credit cards in September 2013 by European cardholders.
 
-###[10.	Covid-19 Vaccines Efficacy](https://github.com/bsashidhar/data_science_portfolio.github.io/tree/cefe85ca97e27bb11624cef82801c3d5e1903f3b/Covid-19%20Vaccines%20Efficacy)
+### [10.	Covid-19 Vaccines Efficacy](https://github.com/bsashidhar/data_science_portfolio.github.io/tree/cefe85ca97e27bb11624cef82801c3d5e1903f3b/Covid-19%20Vaccines%20Efficacy)
 ### Introduction 
 Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus. Most people infected with the virus will experience mild to moderate respiratory illness and recover without requiring special treatment. However, some will become seriously ill and require medical attention. The best way to prevent and slow down transmission is to be well informed about the disease and how the virus spreads. Preventing the infection can be done by following - staying at least 6 feet apart from others, wearing a properly fitted mask, and washing hands or using an alcohol-based rub frequently. 
 
