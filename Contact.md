@@ -8,3 +8,4 @@ permalink: /Contact/
 
 ### Email : b.sashidhar@gmail.com
 ### Phone : +1 831-229-4324
+### Location : Chicago
