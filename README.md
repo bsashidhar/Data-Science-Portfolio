@@ -3,11 +3,6 @@ Data Science Portfolio to summarize my learnings and skills in data exploration,
 
 # About Me
 
-## Contact
-- **Email : b.sashidhar@gmail.com**
-- **Phone : +1 831-229-4324**
-- **Location : Chicago**
-
 ## Professional Summary
 •	Highly-skilled Data Engineer with 19 years of experience in developing, implementation and optimization of data plumbing systems and ETL processes. Led multiple teams of  developers to implement data-driven solutions. Collaborated with data scientists and engineers to develop data pipelines. With strong business understanding and knowledge of Student Loans, Personal Loans, Credit cards and Banking domain.
 
@@ -59,7 +54,13 @@ Data Science Portfolio to summarize my learnings and skills in data exploration,
 
 **Methodology 	  :** Agile Methodology – Scrum & Kanban, Water fall method.
 
+## Contact
+- **Email : b.sashidhar@gmail.com**
+- **Phone : +1 831-229-4324**
+- **Location : Chicago**
+  
 ## Projects
+
 ### [1.	Fertility Rate Analysis](https://github.com/bsashidhar/data_science_portfolio.github.io/tree/705218ac7ac8ad5db3c13403ccbebca8d65dd5d4/Fertility%20Rate%20Analysis)  
 
 #### Introduction
