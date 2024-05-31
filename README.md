@@ -1,10 +1,11 @@
-# Data-Science-Portfolio
-Data Science Portfolio to summarize my learnings and skills in data exploration, data mining and predictive analytics.
+## Contact
+- **Email : b.sashidhar@gmail.com**
+- **Phone : +1 831-229-4324**
+- **Location : Chicago**
 
-# About Me
-
+## About Me
 ## Professional Summary
-•	With over 19 years of IT experience and currently working at Manager Data Engineer designation in Discover Financial Services. With strong business understanding and knowledge in Financial Domain ( including - Student Loans, Personal Loans, Credit cards and Banking domain).
+•	Highly-skilled Data Engineer with 19 years of experience in developing, implementation and optimization of data plumbing systems and ETL processes. Led multiple teams of  developers to implement data-driven solutions. Collaborated with data scientists and engineers to develop data pipelines. With strong business understanding and knowledge of Student Loans, Personal Loans, Credit cards and Banking domain.
 
 ## Strengths
 
@@ -54,15 +55,11 @@ Data Science Portfolio to summarize my learnings and skills in data exploration,
 
 **Methodology 	  :** Agile Methodology – Scrum & Kanban, Water fall method.
 
-## Contact Details
-### Email : b.sashidhar@gmail.com
-### Phone : +1 831-229-4324
-### Location : Chicago
-
-
+# Data-Science-Portfolio
+Data Science Portfolio to summarize my learnings and skills in data exploration, data mining and predictive analytics.
 
 ## Projects
-### 1.	Fertility Rate Analysis : 
+### 1.	Fertility Rate Analysis  
 
 #### Introduction
 The idea and question of fertility is the topic that I choose for the project. It has become more of a prevalent issue, at least in the United States, for women to struggle with infertility and therefore not being able to have children naturally or maybe at all. In terms of birth rates, I would think that the issue of reproductive health in women (and maybe even men) has an impact on the number of kids that are born year-to-year in the country. Therefore, the problem that I want to research is the problem of infertility in America and how it has impacted birth rate. With the concept of infertility, I would also like to research how various factors influence one’s fertility and whether we can predict the fertility of an individual based on their demographic and environmental variables.
