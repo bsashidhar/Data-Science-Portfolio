@@ -53,7 +53,7 @@ Data Science Portfolio to summarize my learnings and skills in data exploration,
 
 - **Others	  :** AWS, Google Cloud, Big Data Analytics, Hadoop, Strong understanding in Master Data Management 
 
-- **Methodology 	  :** Agile Methodology – Scrum & Kanban, Water fall method.
+- **Methodology 	  :** Agile Methodology – Scrum & Kanban, Water fall method
 
 ---
 
