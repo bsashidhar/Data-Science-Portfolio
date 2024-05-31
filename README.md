@@ -1,6 +1,8 @@
 # Data-Science-Portfolio
 Data Science Portfolio to summarize my learnings and skills in data exploration, data mining and predictive analytics.
 
+---
+
 # About Me
 
 ## Professional Summary
@@ -54,11 +56,15 @@ Data Science Portfolio to summarize my learnings and skills in data exploration,
 
 **Methodology 	  :** Agile Methodology – Scrum & Kanban, Water fall method.
 
+---
+
 ## Contact
 - **Email : b.sashidhar@gmail.com**
 - **Phone : +1 831-229-4324**
 - **Location : Chicago**
-  
+
+---
+
 ## Projects
 
 ### [1.	Fertility Rate Analysis](https://github.com/bsashidhar/data_science_portfolio.github.io/tree/705218ac7ac8ad5db3c13403ccbebca8d65dd5d4/Fertility%20Rate%20Analysis)  
