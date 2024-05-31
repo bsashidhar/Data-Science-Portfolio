@@ -1,4 +1,7 @@
 # Data-Science-Portfolio
+
+[About Me](about.md)
+
 Data Science Portfolio to summarize my learnings and skills in data exploration, data mining and predictive analytics.
 
 ## Projects
