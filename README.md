@@ -1,8 +1,13 @@
 # Data-Science-Portfolio
-
-[About Me](About.md)
-
 Data Science Portfolio to summarize my learnings and skills in data exploration, data mining and predictive analytics.
+
+
+Contact Details
+Email : b.sashidhar@gmail.com
+Phone : +1 831-229-4324
+Location : Chicago
+
+
 
 ## Projects
 ### 1.	Fertility Rate Analysis : 
