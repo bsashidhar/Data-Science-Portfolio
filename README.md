@@ -60,7 +60,7 @@ Data Science Portfolio to summarize my learnings and skills in data exploration,
 **Methodology 	  :** Agile Methodology – Scrum & Kanban, Water fall method.
 
 ## Projects
-### 1.	Fertility Rate Analysis  
+### [1.	Fertility Rate Analysis](https://github.com/bsashidhar/data_science_portfolio.github.io/tree/705218ac7ac8ad5db3c13403ccbebca8d65dd5d4/Fertility%20Rate%20Analysis)  
 
 #### Introduction
 The idea and question of fertility is the topic that I choose for the project. It has become more of a prevalent issue, at least in the United States, for women to struggle with infertility and therefore not being able to have children naturally or maybe at all. In terms of birth rates, I would think that the issue of reproductive health in women (and maybe even men) has an impact on the number of kids that are born year-to-year in the country. Therefore, the problem that I want to research is the problem of infertility in America and how it has impacted birth rate. With the concept of infertility, I would also like to research how various factors influence one’s fertility and whether we can predict the fertility of an individual based on their demographic and environmental variables.
@@ -76,7 +76,7 @@ The idea and question of fertility is the topic that I choose for the project. I
 8. What are the key factors that play a role in one’s fertility, men and women?
 
 
-### 2.	Post-graduate Salary  for the students 
+[2.	Post-graduate Salary  for the students](https://github.com/bsashidhar/data_science_portfolio.github.io/tree/705218ac7ac8ad5db3c13403ccbebca8d65dd5d4/Post-graduate%20Salary%20%20for%20the%20students) 
 
 #### Introduction 
 As a part of my project deliverables, I have considered three datasets regarding post-graduate earnings for the students , university acceptance rate and College Scorecard. The three datasets are linked based on the university name.
@@ -89,7 +89,8 @@ As a part of my project deliverables, I have considered three datasets regarding
 •	API : Data source as website
 Also, I have created the Data visualizations as part of this Course
 
-### 3.	BRAIN STROKE PREDICTION: 
+[3.	BRAIN STROKE PREDICTION](https://github.com/bsashidhar/data_science_portfolio.github.io/tree/705218ac7ac8ad5db3c13403ccbebca8d65dd5d4/BRAIN%20STROKE%20PREDICTION)
+
 #### Introduction:
 A stroke occurs when a blood vessel that carries oxygen and nutrients to the brain is either blocked by a clot or bursts (or ruptures). When that happens, part of the brain cannot get the blood (and oxygen) it needs, so it and brain cells die.
 There are two types of Brain strokes:
@@ -102,7 +103,7 @@ There are two types of Brain strokes:
 The main objective behind choosing this topic is irrespective of age, people these days are getting brain strokes due to our lifestyle and care towards our health. If we can predict the outcome from stroke history and various factors, we can avoid strokes ahead and lead a healthy life.
 
 
-### 4.	Vehicle Loan Default Prediction: 
+[4.	Vehicle Loan Default Prediction](https://github.com/bsashidhar/data_science_portfolio.github.io/tree/705218ac7ac8ad5db3c13403ccbebca8d65dd5d4/Vehicle%20Loan%20Default%20Prediction) 
 #### Introduction 
 Financial institutions incur significant losses due to the default of vehicle loans. This has led to the tightening up of vehicle loan underwriting and increased vehicle loan rejection rates. The need for a better credit risk scoring model is also raised by these institutions. This warrants a study to estimate the determinants of vehicle loan default.
 Financial institutions have the need to accurately predict the probability of borrower defaulting on a vehicle loan in the first EMI (Equated Monthly Instalments) on the due date. Doing so will ensure that clients capable of repayment are not rejected and important determinants can be identified which can be further used for minimizing the default rates.
